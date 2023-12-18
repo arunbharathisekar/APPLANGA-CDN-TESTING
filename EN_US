@@ -1,0 +1,19 @@
+{
+  "aboutapp": [
+    {
+      "title": "About This App",
+      "item": [
+        {
+          "type": "html",
+          "value": "<p>A powerful, full-featured tool for managing all aspects of your health care on the go.* Dynamic and colorfulinterface puts interactive functionality at your fingertips: swipe, tap, and spin to unlock all your app’s featuresand the details of your health care.</p><h3>BBB App Features</h3><p>You must be a BBB customer to use the secure myBBB mobile app. Based on your health care plan, you may not haveall of the features described below</p><br><h4>ID Cards</h4><ul><li>Quickly view ID cards (front and back) for entire family</li><li>Easily print, email, fax or scan right from your mobile device</li></ul><br><h4>Claims & EOBs</h4><ul><li>View and search recent and past claims</li><li>Bookmark and group claims for easy reference</li></ul><br><h4>Account Balances</h4><ul><li>Access and view health fund balances</li><li>Review plan deductibles and coinsurance</li><li>Submit requests for reimbursement</li></ul><br><h4>Home Delivery Pharmacy</h4><ul><li>View and refill your prescriptions right from your mobile device</li><li>Update billing and shipping preferences</li></ul><br><h4>Drug Search</h4><ul><li>Look up and compare actual costs at 60,000 pharmacies nationwide</li><li>Find closest pharmacy location using GPS</li><li>Speed-dial BBB Home Delivery Pharmacy<sup>SM</sup></li></ul><br><h4>Health Care Professional Directory</h4><ul><li>Search for a doctor, dentist, pharmacy or health care facility from BBB's national network and compare quality-of-care ratings</li></ul><br><h4>Procedure Search</h4><ul><li>Search among hundreds of common medical procedures and compare costs for doctors and facilities</li><li>Make choices based on costs personalized to you – we do the math for you including your deductible, coinsurance, and health care accounts (if available)</li></ul><br><h4>Account Balances</h4><ul><li>Access and view health fund balances</li><li>Review plan deductibles and coinsurance</li><li>Submit requests for reimbursement</li></ul><br><h4>BBB Telehealth Connection</h4><ul><li>Connect with a nationwide network of doctors via video or phone</li></ul><br><h3>Coverage</h3><ul><li>View plan coverage and authorizations</li><li>Find what’s covered under your plan</li></ul><br><h4>Incentives</h4><ul><li>View goal activities and awards</li></ul><br><h4>Languages Supported</h4><ul><li>English and Spanish.</li></ul><br><h4>Safe & Secure</h4><ul><li>I use the latest technology in secure mobile applications to protect your personal health info while online or off.</li></ul><br>",
+          "header": ""
+        },
+        {
+          "type": "collapse",
+          "value": "<p>\"BBB\" is a registered service mark of BBB Intellectual Property, Inc., licensed for use by BBB Corporation and its operating subsidiaries. BBB Corporation is a holding company and is not an insurance or an operating company. Therefore, the Service and any related products and services are provided or administered by or through such operating subsidiaries and not by BBB Corporation. \"BBB\" may refer to BBB Corporation itself or one or more of its subsidiaries, but when used in connection with the provision of a product or service, always refers to a subsidiary.</p>",
+          "header": "Definitions, Products and Services Provided or Administered by BBB Corporation Subsidiaries"
+        }
+      ]
+    }
+  ]
+}
